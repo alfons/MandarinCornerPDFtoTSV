@@ -5,6 +5,8 @@ Convert MandarinCorner PDF text into TSV format for spreadsheet use
 
 A class to convert Mandarin Corner PDF transcripts into TSV format for use in spreadsheets. Built for personal study purposes to help students work with Mandarin Corner podcast transcripts.
 
+![Mandarin Corner PDF to TSV Converter Screenshot](./MandarinCornerPDFtoTSV.jpg)
+
 ## Features
 - Converts raw PDF text into TSV with columns for Chinese Pinyin, Chinese Simplified, and English.
 - Filters out PDF-relevant lines (e.g., headers, footers).
