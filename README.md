@@ -8,9 +8,9 @@ A class to convert Mandarin Corner PDF transcripts into TSV format for use in sp
 ![Mandarin Corner PDF to TSV Converter Screenshot](./MandarinCornerPDFtoTSV.jpg)
 
 ## Features
-- Converts raw PDF text into TSV with columns for Chinese Pinyin, Chinese Simplified, and English.
+- Converts text copied from a Mandarin Corner PDF into TSV format with columns: Index, Chinese Pinyin, Chinese Simplified, and English.
 - Filters out PDF-relevant lines (e.g., headers, footers).
-- Copies output to clipboard for easy pasting into spreadsheets.
+- Copy output to clipboard for easy pasting into spreadsheets.
 
 ## Usage
 1. Open `index.html` in a modern browser.
