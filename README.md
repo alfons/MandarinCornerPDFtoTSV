@@ -24,7 +24,7 @@ A class to convert Mandarin Corner PDF transcripts into TSV format for use in sp
 - Created by [Alfons Grabher](https://alfonsgrabher.com).
 
 ## Installation
-Clone this repository and open `index.html` in a browser. No additional setup required.
+Clone or download (unzip the zip file) this repository, open `index.html` in a browser. No additional setup required.
 
 ## License
 MIT License (see LICENSE file). Note that this does not apply to Mandarin Corner content, which remains under their copyright. To access Mandarin Corner content you need to become a Mandarin Corner member.
